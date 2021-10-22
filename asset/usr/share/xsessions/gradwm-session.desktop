@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gradwm
+Comment=Dynamic window manager
+Exec=/usr/share/gradwm/xsessions/gradwm-session
+Icon=dwm
+Type=XSession
